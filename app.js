@@ -2,13 +2,13 @@
 // arr.splice(2, 1)
 // console.log(arr)
 
-var arr2 = [1, 2, 3, 5]
-arr2.splice(3, 0, 4)
-console.log(arr2)
+// var arr2 = [1, 2, 3, 5]
+// arr2.splice(3, 0, 4)
+// console.log(arr2)
 
-// var arr3 = ['a', 'b', 'c', 'd']
-// arr3.splice(1, 1, "x")
-// console.log(arr3)
+var arr3 = ['a', 'b', 'c', 'd']
+arr3.splice(1, 1, "x")
+console.log(arr3)
 
 // var arr4 = [100, 200, 300, 400]
 // var arr5 = arr4.slice(1, 4)
