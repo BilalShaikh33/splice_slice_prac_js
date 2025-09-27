@@ -18,16 +18,16 @@
 // var arr7 = arr6.slice(arr6.length-3,arr6.length)
 // console.log(arr7)
 
-var arr8 = [10,20,30,40,50]
-arr8.splice(1,3)
-console.log(arr8)
+// var arr8 = [10,20,30,40,50]
+// arr8.splice(1,3)
+// console.log(arr8)
 
 
-// var arr9 = [1,2,3]
-// var arr10 = [4,5,6]
-// var arr11 = arr9.concat(arr10)
-// // var arr11 = arr9.slice(0,3).concat(arr10.slice(0,3))
-// console.log(arr11)
+var arr9 = [1,2,3]
+var arr10 = [4,5,6]
+var arr11 = arr9.concat(arr10)
+// var arr11 = arr9.slice(0,3).concat(arr10.slice(0,3))
+console.log(arr11)
 
 
 // var arr12 = [1,2,3,4]
