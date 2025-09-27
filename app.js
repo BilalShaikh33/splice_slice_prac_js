@@ -23,15 +23,15 @@
 // console.log(arr8)
 
 
-var arr9 = [1,2,3]
-var arr10 = [4,5,6]
-var arr11 = arr9.concat(arr10)
-// var arr11 = arr9.slice(0,3).concat(arr10.slice(0,3))
-console.log(arr11)
+// var arr9 = [1,2,3]
+// var arr10 = [4,5,6]
+// var arr11 = arr9.concat(arr10)
+// // var arr11 = arr9.slice(0,3).concat(arr10.slice(0,3))
+// console.log(arr11)
 
 
-// var arr12 = [1,2,3,4]
-// var arr13 = arr12.slice(0,4)
-// arr13.splice(4,0,5)
-// console.log(arr13)
+var arr12 = [1,2,3,4]
+var arr13 = arr12.slice(0,4)
+arr13.splice(4,0,5)
+console.log(arr13)
 
